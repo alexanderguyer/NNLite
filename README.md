@@ -1,2 +1,2 @@
 # NNLite
-An implementation of neural networks in C++
+A rudimentary implementation of neural networks in C++
